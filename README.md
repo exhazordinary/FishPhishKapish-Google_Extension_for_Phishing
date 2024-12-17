@@ -14,7 +14,7 @@ The extension reads page content to analyze it when user opens the extension's p
 The extension does not collect, transmit or share user data. It just reads page contents and analyses them to find any suspicious content source.
 
 ## Copyright
-The AI-model was from an open-source GitHub repository:https://github.com/moghimi/phishdetector . With enhancement on the training and testing of the model using the latest dataset from PhishTank
+The project is subjected to any copyright of GODAMLAH! Hackathon 2024
 
 ## Steps:
 1) Download this repo
