@@ -1,0 +1,11 @@
+{
+   "appDesc": {
+      "message": "A Rule-Based phishing attack detector for any websites"
+   },
+   "appName": {
+      "message": "FishPhishKapish - Google Extension for Phishing Detection"
+   },
+   "appShortName": {
+      "message": "FishPhishKapish = Extension to detect phishing"
+   }
+}
